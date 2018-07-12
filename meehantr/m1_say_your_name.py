@@ -19,4 +19,3 @@ Authors: Dave Fisher and Thomas Meehan.
 import ev3dev.ev3 as ev3
 
 ev3.Sound.speak('Thomas Meehan can write E V 3 programs').wait()
-
